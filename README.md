@@ -1,2 +1,5 @@
 # Gridea_Frontend_Egitimi
-Gridea Frontend 
+Gridea Frontend Eğitimindeki Ödev ve Ders Notları
+
+bu benim ilk repom
+
